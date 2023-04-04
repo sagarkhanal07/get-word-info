@@ -1,6 +1,6 @@
 {
   "name": "get-word-info",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A command-line tool for getting word definitions from a dictionary API",
   "bin": {
     "define": "./index.js"
