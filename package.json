@@ -1,0 +1,22 @@
+{
+  "name": "get-word-info",
+  "version": "1.0.0",
+  "description": "A command-line tool for getting word definitions from a dictionary API",
+  "bin": {
+    "define": "./index.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "keywords": [
+    "cli",
+    "dictionary",
+    "word",
+    "definition"
+  ],
+  "author": {
+    "name": "Sagar Khanal",
+    "email": "sagarrkhanal@gmail.com"
+  },
+  "license": "ISC"
+}
