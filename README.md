@@ -4,17 +4,17 @@ A command-line tool for getting word definitions from a dictionary API.
 
 ## Installation
 
-You can install the `get-word-info` package globally using `npm`:
+You can install the `word-dict` package globally using `npm`:
 
 ```sh
-$ npm install -g get-word-info
+$ npm install -g word-dict
 ```
 
 
 
 ## Usage
 
-To use the `get-word-info` command, simply enter it followed by the word you want to look up:
+To use the `word-dict` command, simply enter it followed by the word you want to look up:
 
 ```sh
 $ define hello
