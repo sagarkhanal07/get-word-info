@@ -18,5 +18,9 @@
     "name": "Sagar Khanal",
     "email": "sagarrkhanal@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagarkhanal07/get-word-info.git"
+  },
   "license": "ISC"
 }
